@@ -4,8 +4,6 @@ import numpy as np
 
 # leo el archivo .csv que solo contiene los datos que voy a visualizar y/o analizar
 casos_visualizacion = pd.read_csv('Covid19CasosCorregido.csv')
-print(casos_visualizacion.head(10))
-print(casos_visualizacion.shape)
 
 # extraigo los valores de la columna edad que cumplen la condicion a la cual hace referencia el nombre de la variable.
 edad_0_20 = casos_visualizacion.loc[(casos_visualizacion['edad'] < 21) & (casos_visualizacion['fallecido'] == 'SI'), 'edad']

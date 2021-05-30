@@ -26,7 +26,7 @@
 - Con un archivo .csv limpio comencé a trabajar con scripts para poder esta vez obtener las respuestas a las preguntas (mediante Python) y poder crear gráficos con Matplotlib.
 
 ## Resultados de los scripts
-- *Cantidad de casos en el mismo periodo de tiempo: *
+- *Cantidad de casos en el mismo periodo de tiempo:*
 
 ![Casos en el mismo periodo](CasosMismaFecha.png)
 

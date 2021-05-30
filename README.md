@@ -46,7 +46,7 @@ La observación es sencilla y no requiere un análisis profundo, el porcentaje d
 
 ![Porcentaje de mortalidad en hombres vs mujeres](MuertosHombresVsMujeres.png)
 
-La conclusión del grafico es que si bien los hombres se contagian menos (muy poco) que las mujeres, los hombres mueren más que las mujeres cuando contraen COVID-19.
+La conclusión del grafico es que si bien los hombres se contagian menos que las mujeres, los hombres mueren más que las mujeres cuando contraen COVID-19.
 
 #
 

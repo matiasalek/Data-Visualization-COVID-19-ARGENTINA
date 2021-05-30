@@ -23,7 +23,7 @@
 3. Porcentaje de mortalidad en hombres y en mujeres.
 4. Cantidad de muertos en distintos rangos etarios.
 - Después de obtener las respuestas de esas preguntas comencé a trabajar con un script de Python en el cual elimine definitivamente todas las columnas del archivo .csv que sabía que no iba a utilizar y elimine todas las filas donde `clasificacion_resumen` era *Descartado*, *Sospechoso* o *Sin clasificar*, dejando así solamente las filas donde `clasificacion_resumen` era igual a *Confirmado*, es decir, de 10 millones de filas pase a tener 3.5M(aproximadamente) de filas, que son los casos de COVID positivo que tuvo Argentina desde el comienzo de la pandemia.
-- Con un archivo .csv limpio comencé a trabajar con scripts para poder esta vez obtener las respuestas a las preguntas (mediante Python) y poder crear gráficos con Matplotlib.
+- Con este archivo .csv limpio comencé a trabajar con scripts para poder esta vez obtener las respuestas a las preguntas (mediante Python) y poder crear gráficos con Matplotlib.
 
 ## Resultados de los scripts
 - *Cantidad de casos en el mismo periodo de tiempo:*

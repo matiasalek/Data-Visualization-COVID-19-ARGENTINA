@@ -38,5 +38,5 @@ ax.bar_label(rects1, padding=1, fmt='%.2f')
 fig.tight_layout()
 
 # guardo el plot y lo muestro
-plt.savefig('MuertosRangoEtario.png')
+plt.savefig('CasosMismaFecha.png')
 plt.show()
